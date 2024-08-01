@@ -1,0 +1,7 @@
+com\supermarkethibernate\servlets\LoginServlet.class
+com\supermarkethibernate\config\HibernateUtil.class
+com\supermarkethibernate\service\UsuarioService.class
+com\supermarkethibernate\JakartaRestConfiguration.class
+com\supermarkethibernate\resources\JakartaEE10Resource.class
+com\supermarkethibernate\model\Usuario.class
+com\supermarkethibernate\servlets\LogoutServlet.class
